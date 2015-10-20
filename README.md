@@ -16,7 +16,8 @@ _by Ricardo Tlatelpa_
 
 ---
 ## Repository Setup
-
+#**O**nce...  
+You have created 
 
 
 ---
