@@ -16,8 +16,12 @@ _by Ricardo Tlatelpa_
 
 ---
 ## Repository Setup
-#**O**_nce_...  
-You have created 
+* **After you have setup github**
+ * Follow these steps to start your very own repo!
+1. 
+2. 
+3. 
+4. 
 
 
 ---
