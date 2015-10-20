@@ -18,7 +18,7 @@ _by Ricardo Tlatelpa_
 ## Repository Setup
 * **After you have setup github**
  * Follow these steps to start your very own repo!
-1. 
+1.`git init` in the terminal, this basically starts up a connection between your local remote to the cloud aka github.  
 2. 
 3. 
 4. 
