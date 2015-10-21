@@ -20,9 +20,14 @@ _by Ricardo Tlatelpa_
  * _Follow these steps to start your very own repo!_  
 1.`git init`; in the terminal, what this does is setup your repo with something fancy called _version control_, what version control does is to try to avoid crashes within the project, which is why github is very important. But now that you have a repo, how do you use it?  
 2.`git add`; so github is for any kind of coder, so what ever line of code you used you can put up in the stage, think of this process like taking a photograph, you are adding people, removing them, and finally commiting them or how github calls it **snap it**.  
-3.`git commit -m""`; So why do you snap it
-4. 
+3.`git commit -m""`; So what this does is basically take a snapshot and sends the data of code into the cloud.
+ 
 
 
 ---
 ## Workflow & Commands
+** So now that you setup... **
+* You get used to this sort of flow, that consists of 3 commands:
+ * `git status`
+ * `git add ""` 
+ * `git commit -m ""`
