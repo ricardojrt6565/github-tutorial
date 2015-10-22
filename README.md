@@ -51,4 +51,10 @@ Create a [github](https://github.com/) account.
  * `git add ` 
  * `git commit -m ""`
 
-The importance of all these 3 lines of code are to both keep you aware of your progress and to save your code. You use these 3 lines of code the most because these are what you need the most in order to 
+The importance of all these 3 lines of code are to both keep you aware of your progress and to save your code. You use these 3 lines of code the most because these are what you need the most in order to be the most productive you can be.
+
+#Clone
+* Cloning is pretty self explanatory like the name, making a clone of the code onto your local repository. 
+
+#Forking
+* Forking confused with cloning it may seem like they have the same concept but they are differet. Forking creates a 
