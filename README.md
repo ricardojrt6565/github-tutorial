@@ -34,7 +34,7 @@ Create a [github](https://github.com/) account.
 
  _Follow these steps to start your very own repo!_  
 
-1. **`git init`**; in the terminal, what this does is setup your repo with something fancy called _version control_, what version control does is to try to avoid crashes within the project, which is why github is very important. But now that you have a repo, how do you use it?  
+1. To make a repository just go to the github website and click on new repository and name it after your depository, so you can't get confused and be more organized.
 
 2. **`git add`**; so github is for any kind of coder, so what ever line of code you used you can put up in the stage, think of this process like taking a photograph, you are adding people, removing them, and finally commiting them.   
 
