@@ -21,6 +21,12 @@ Create a [github](https://github.com/) account.
 
 2. Inside of the terminal type **`git init`** which initializes git inside of the program.
 
+3. `ssh -T git@github.com` by typing this you are basically setting up a connection between your local remote and github, it should also connect with your repository, in which you can [clone](#clone). You would like to have ssh because if you don't you would have to constantly type username and email with https.
+
+4. You are almost done! you should feel very proud of yourself, now type in `git config --global user.name “Firstname-Last name”` then
+`git config --global user.email “insert email”` so you can get the credit when you create something/save something.
+
+
 ---
 ## Repository Setup
 
