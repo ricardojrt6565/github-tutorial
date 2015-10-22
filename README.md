@@ -60,3 +60,7 @@ The importance of all these 3 lines of code are to both keep you aware of your p
 
 ## Forking
 * Forking confused with cloning because it may seem like they have the same concept but they are differet. Forking creates a copy into your github in which you can clone and request a pull. Pulling and pushing is how github gets code/files around, how the community stays open, pulling basically is getting a copy of code or idea and puttinng it into your depository. Pushing is basically applying the commits into the original copy of data.
+
+#Mistakes
+So you made a mistake.. tsk tsk tsk..Just kidding. If you are here you probably have initalized git somewhere that is not your workspace. Don't worry.
+* To solve this problem type in `rm -rf .git` which just gets rid of the git folder.
